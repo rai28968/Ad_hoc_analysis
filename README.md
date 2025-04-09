@@ -10,7 +10,10 @@ Challenge: Solve 10 ad-hoc business questions using SQL and present insights in 
 
 The goal was to demonstrate technical proficiency in SQL as well as soft skills like communication, insight generation, and presentation.
 
+
+
 📌 Task Details
+
 ✅ Analyzed 10 ad-hoc business questions listed in the ad-hoc-requests.pdf.  
 
 ✅ Wrote optimized SQL queries to extract meaningful insights from the database.
